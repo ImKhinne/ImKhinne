@@ -33,6 +33,7 @@
 | project | description |
 |---|---|
 | **WhatsApp Bot** | Modular WhatsApp bot berbasis Baileys — plugin system, hot-reload |
+| **Telegram Bot** | Multi-functional Telegram bot powered by Node.js |
 
 ---
 
