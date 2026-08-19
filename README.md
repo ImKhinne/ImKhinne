@@ -1,8 +1,8 @@
 <h1 align="center">hello i'm</h1>
-<h1 align="center"><b>nama lo disini</b></h1>
+<h1 align="center"><b>Khinne</b></h1>
 <p align="center"><b>WhatsApp Bot Developer</b></p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_LO&color=blueviolet" alt="visitors">
+  <img src="https://komarev.com/ghpvc/?username=ImKhinne&color=blueviolet" alt="visitors">
 </p>
 > "ideas don't build themselves. fw" 🌊
 ### projects
