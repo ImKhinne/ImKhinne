@@ -32,7 +32,6 @@
 
 | project | description |
 |---|---|
-| **[DB-one](https://github.com/ImKhinne/DB-one)** | Database & backend tools repository |
 | **WhatsApp Bot** | Modular WhatsApp bot berbasis Baileys — plugin system, hot-reload |
 
 ---
