@@ -64,8 +64,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,50:0077b6,100:020c1b&height=120&section=footer&animation=fadeIn" width="100%" />
 
-
-building whatever, whenever mood hits  ·  SSH on mobile  ·  🌊
+```
+⟡  ·  building whatever, whenever mood hits  ·  SSH on mobile  ·  ⟡
+```
 
 </div>
 
